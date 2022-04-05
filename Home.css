@@ -320,6 +320,16 @@
     height: 500px;
   }
 
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 276px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-right: auto;
+    margin-left: 17px;
+  }
+
   .u-section-1 .u-text-3 {
     margin-right: 0;
   }
