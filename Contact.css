@@ -2,6 +2,14 @@
   min-height: 501px;
 }
 
+header {
+  Position: sticky;
+  Top: 0;
+  Z-index: 1;
+  background-color: white;
+  }
+ 
+
 .u-section-1 .u-form-1 {
   height: 403px;
   margin: 49px 570px 0 0;

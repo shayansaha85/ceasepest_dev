@@ -1,4 +1,12 @@
- .u-section-1 {
+ 
+header {
+  Position: sticky;
+  Top: 0;
+  Z-index: 1;
+  background-color: white;
+  }
+ 
+.u-section-1 {
   background-image: url("images/images.jpg");
   background-position: 50% 50%;
 }

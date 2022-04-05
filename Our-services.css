@@ -2,6 +2,13 @@
   min-height: 500px;
 }
 
+header {
+  Position: sticky;
+  Top: 0;
+  Z-index: 1;
+  background-color: white;
+  }
+ 
 .u-section-1 .u-blog-1 {
   height: auto;
   width: 759px;
